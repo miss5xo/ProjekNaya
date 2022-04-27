@@ -6,7 +6,7 @@ include('config.php');
 
 <html>
 <head>
-	<title>REKOD MAKLUMAT PESAKIT</title>
+	<title>REKOD MAKLUMAT PELAJAR</title>
 </head>
 <style>
 	h2{
@@ -18,7 +18,7 @@ include('config.php');
 	}
 </style>
 <body>
-	<h2>REKOD MAKLUMAT PESAKIT</h2>
+	<h2>REKOD MAKLUMAT PELAJAR</h2>
 	<center>
 		<table border="1" cellpadding="5" cellspacing="0" bgcolor="white">
 			<tr>
